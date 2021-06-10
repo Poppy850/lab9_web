@@ -1,7 +1,14 @@
 # lab9_web
 Nama : Poppy Harandttika
 Kelas : TI.19.C1
-NIM : 311910687
+NIM : 311910687![1](https://user-images.githubusercontent.com/85287196/121448340-4f4bd780-c94c-11eb-839b-ac4b27177c5d.png)
+
+                               Pratikum 9 & 10
+Tampilan Halaman Home
+![1](https://user-images.githubusercontent.com/85287196/121448462-8cb06500-c94c-11eb-8be6-2d8ae2bc4f15.png)
+
+Tampilan About
+![2](https://user-images.githubusercontent.com/85287196/121448527-b5d0f580-c94c-11eb-8acc-2def66a65576.png)
 
 Tampilkan Halaman Home
 ![image](https://user-images.githubusercontent.com/85287196/121447731-1d864100-c94b-11eb-9393-fefd19515884.png)
