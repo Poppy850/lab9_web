@@ -4,19 +4,22 @@ Kelas : TI.19.C1
 NIM : 311910687
 
 Tampilkan Halaman Home
-![1](https://user-images.githubusercontent.com/85287196/121445780-fded1980-c946-11eb-870a-507c992d43fb.png)
+![image](https://user-images.githubusercontent.com/85287196/121447731-1d864100-c94b-11eb-9393-fefd19515884.png)
+
+Tampilan Kontak
+![image](https://user-images.githubusercontent.com/85287196/121447647-ea43b200-c94a-11eb-8260-2215745bb4a0.png)
 
 Tampilan Halaman About 
-![2](https://user-images.githubusercontent.com/85287196/121445889-32f96c00-c947-11eb-82b4-59e3805cdadd.png)
+![image](https://user-images.githubusercontent.com/85287196/121447704-0e06f800-c94b-11eb-9f8f-9ae417d68ba2.png)
 
 Tampilan Data Barang
-![Data Barang](https://user-images.githubusercontent.com/85287196/121446056-9388a900-c947-11eb-9ebe-10247e8eabaa.png)
+![image](https://user-images.githubusercontent.com/85287196/121447794-460e3b00-c94b-11eb-8004-d8e7d487feac.png)
 
 Tampilan Tambah Barang
-![index tambah](https://user-images.githubusercontent.com/85287196/121446182-d480bd80-c947-11eb-958e-6961ac46dc08.png)
+![image](https://user-images.githubusercontent.com/85287196/121447849-60481900-c94b-11eb-860d-af522e0c6a5c.png)
 
 Tampilan Ubah Barang
-![ubah barang](https://user-images.githubusercontent.com/85287196/121446243-eeba9b80-c947-11eb-9e8f-6560ddaeff96.png)
+![image](https://user-images.githubusercontent.com/85287196/121447827-54f4ed80-c94b-11eb-829a-fd47c10e1aeb.png)
 ![hapus barang](https://user-images.githubusercontent.com/85287196/121446264-f8440380-c947-11eb-9431-29efa40db58e.png)
 
 
